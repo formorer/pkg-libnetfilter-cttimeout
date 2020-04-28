@@ -7,7 +7,7 @@ Build-Depends: debhelper (>= 9.20160114),
                pkg-config
 Standards-Version: 3.9.3
 Section: libs
-Homepage: http://www.netfilter.org/projects/libnetfilter_cttimeout
+Homepage: https://www.netfilter.org/projects/libnetfilter_cttimeout
 Vcs-Git: git://github.com/formorer/pkg-libnetfilter-cttimeout.git
 Vcs-Browser: https://github.com/formorer/pkg-libnetfilter-cttimeout
 
