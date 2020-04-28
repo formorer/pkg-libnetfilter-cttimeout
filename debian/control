@@ -1,7 +1,7 @@
 Source: libnetfilter-cttimeout
 Priority: extra
 Maintainer: Alexander Wirt <formorer@debian.org>
-Build-Depends: debhelper (>= 9.20160114),
+Build-Depends: debhelper (>= 10~),
                libmnl-dev (>= 1.0.0),
                libtool,
                pkg-config
